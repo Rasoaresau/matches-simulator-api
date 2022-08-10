@@ -8,12 +8,13 @@
 “Mandante”: {
 “Nome”: ”Brasil”,
 “Forca”: 5,
-Imagem”: “TODO”
+"imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
 {,
 “Visitante”: {
 “Nome”: ”Argentina”,
 “Força” : 5 ,
-Imagem”: “TODO”
+"imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+
 }
 }
 ]
